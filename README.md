@@ -2,7 +2,7 @@
 
 **Introduction**
 ---
-This notebook provides a step-by-step guide for processing ALOS2 PALSAR2 stripmap images to generate interferograms corrected for ionospheric effects. It uses ISCE2’s alosStack processor (Liang et al., 2019) to process all images as a stack (with one reference image in the stack) and calculates and corrects the ionospheric effects across the image stack network. It offers clarity about the specific steps involved, helping users better understand the processes taking place. 
+This notebook provides a step-by-step guide for processing ALOS2 PALSAR2 stripmap (or scansar) images to generate interferograms corrected for ionospheric effects. It uses ISCE2’s alosStack processor (Liang et al., 2019) to process all images as a stack (with one reference image in the stack) and calculates and corrects the ionospheric effects across the image stack network. It offers clarity about the specific steps involved, helping users better understand the processes taking place. 
 
 
 **Aknownledgements**
